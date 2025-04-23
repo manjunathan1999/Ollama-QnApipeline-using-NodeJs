@@ -1,0 +1,10 @@
+{
+  "questions": [
+    "What specific details can you provide about the person named Monique Van De Haar who attended an event at the \"Local Grant\" on January 16, 2025? Specifically, I am interested in their ID number and any associated journal entries made during or after this visit. Can you also share when exactly these events occurred based on create and modify dates provided for a related entry with EventID '0x006FB7EE6B22FCB24EDA9DCDC20C444214A9'?",
+    "What is the name of the person associated with card number 40160 who attended an event at the \"2E4 Lvl 1 Female Showers Exit - Reader\" location on January 16, 2025? Monique Van De Haar",
+    "What is the name of the person associated with ID number 13, who entered a journal entry at location \"2E4 Lvl 1 Female Showers Exit - Reader\" on February 5th, 2025? The individual's first and last names are Firstname: Monique Lastname: Van De Haar.",
+    "What information is recorded for the Local Grant event in terms of personal data, and what are the details regarding their card usage as per the provided JSON data?",
+    "What event did Monique record at the Local Grant's \"2E4 Lvl 1 Female Showers Exit - Reader\" location on January 16, 2025?",
+    "What is the name of the person whose Local Grant event occurred on January 16, 2025, at location \"2E4 Lvl 1 Female Showers Exit - Reader\"? The first name given for this individual in the data provided appears to be Monique."
+  ]
+}

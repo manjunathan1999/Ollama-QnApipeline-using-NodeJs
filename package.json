@@ -1,0 +1,30 @@
+{
+  "name": "ollama_node",
+  "version": "1.0.0",
+  "description": "Working on Ollama llm using Node.js framework",
+  "main": "app.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ollama",
+    "LLM",
+    "Node.js",
+    "Chat",
+    "Generate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.17.1",
+    "@opensearch-project/opensearch": "^3.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "ollama": "^0.5.14",
+    "ollama-node": "^0.1.28",
+    "sqlite": "^3.0.6",
+    "sqlite3": "^5.1.7"
+  }
+}
